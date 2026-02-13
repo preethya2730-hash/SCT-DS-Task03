@@ -18,7 +18,7 @@ File Used: bank-full.csv
 
 To predict customer subscription (yes/no) using machine learning techniques.
 
-#Tools & Libraries
+# Tools & Libraries
 
 Python
 
