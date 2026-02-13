@@ -44,7 +44,7 @@ Evaluated model using accuracy, confusion matrix, and classification report
 
 Visualized the decision tree
 
-#Model Output
+# Model Output
 
 Predicts whether a customer will subscribe to a term deposit
 
